@@ -1,0 +1,7 @@
+= Switchvoxicator
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Wayne Schroer. See LICENSE for details.
